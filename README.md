@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kodernubie
-- 👀 I’m interested in Golang, Java
+- 👀 I’m interested in Golang, Java, JavaScript
 - 📫 Reach me by send email to denny.marlis@gmail.com
 
 <!---
